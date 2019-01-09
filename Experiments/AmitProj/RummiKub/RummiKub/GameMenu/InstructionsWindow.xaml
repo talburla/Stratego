@@ -1,0 +1,25 @@
+﻿<Window x:Class="RummiKub.InstructionsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RummiKub"
+        mc:Ignorable="d"
+        Title="InstructionsWindow" Height="470" Width="580">
+    <Grid Margin="0,0,2,-4" Height="423" VerticalAlignment="Top">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="364*"/>
+            <RowDefinition Height="59*"/>
+        </Grid.RowDefinitions>
+        <Grid Name="Gr" Grid.Row="0">
+            
+        </Grid>
+        <Grid Grid.Row="1">
+            <Button x:Name="NextPage_button" Content="Next Page" HorizontalAlignment="Left" Height="29" Margin="424,21.016,0,0" VerticalAlignment="Top" Width="111" Click="NextPage_button_Click" Grid.Row="1"/>
+            <Button x:Name="Back_button" Content="Back" HorizontalAlignment="Left" Height="29" Margin="38,21.016,0,0" VerticalAlignment="Top" Width="111" Grid.Row="1" Click="Back_button_Click_1"/>
+
+        </Grid>
+
+        
+    </Grid>
+</Window>

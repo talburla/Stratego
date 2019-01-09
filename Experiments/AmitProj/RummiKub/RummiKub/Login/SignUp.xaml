@@ -1,0 +1,27 @@
+﻿<Window x:Class="RummiKub.SignUp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RummiKub"
+        mc:Ignorable="d"
+        Title="SignUp" Height="350" Width="525" Closing="Window_Closing">
+    <Grid>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="20,50,80,10">
+                <TextBlock TextWrapping="Wrap" Text="UserName:" Margin="150,0,10,0"/>
+                <TextBox x:Name="txtBlockUserName" Height="23" TextWrapping="Wrap" Text="" Width="78" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="20,50,80,10">
+                <TextBlock TextWrapping="Wrap" Text="Password:"  Margin="150,0,10,0"/>
+                <PasswordBox Name="txtBlockPasswoed" Width="78"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="20,50,80,10">
+                <TextBlock TextWrapping="Wrap" Text="Confirm Password:"  Margin="150,0,10,0"/>
+                <PasswordBox Name="txtBlockConfirmPasswoed"  Width="78"/>
+            </StackPanel>
+            <Button Content="Sign Up" Margin="80,20,80,0" Click="Sign_Up" />
+            <Button x:Name="Back"  Margin="40,10,350,50" Content="Back" Click="Back_Click"  />
+        </StackPanel>
+    </Grid>
+</Window>

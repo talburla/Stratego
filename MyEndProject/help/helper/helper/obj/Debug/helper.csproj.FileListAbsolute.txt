@@ -1,0 +1,52 @@
+C:\Users\beni\Desktop\help\helper\helper\bin\Debug\helper.exe.config
+C:\Users\beni\Desktop\help\helper\helper\bin\Debug\helper.exe
+C:\Users\beni\Desktop\help\helper\helper\bin\Debug\helper.pdb
+C:\Users\beni\Desktop\help\helper\helper\obj\Debug\helper.csprojResolveAssemblyReference.cache
+C:\Users\beni\Desktop\help\helper\helper\obj\Debug\MainWindow.baml
+C:\Users\beni\Desktop\help\helper\helper\obj\Debug\MainWindow.g.cs
+C:\Users\beni\Desktop\help\helper\helper\obj\Debug\App.g.cs
+C:\Users\beni\Desktop\help\helper\helper\obj\Debug\helper_MarkupCompile.cache
+C:\Users\beni\Desktop\help\helper\helper\obj\Debug\helper.g.resources
+C:\Users\beni\Desktop\help\helper\helper\obj\Debug\helper.Properties.Resources.resources
+C:\Users\beni\Desktop\help\helper\helper\obj\Debug\helper.csproj.GenerateResource.Cache
+C:\Users\beni\Desktop\help\helper\helper\obj\Debug\helper.exe
+C:\Users\beni\Desktop\help\helper\helper\obj\Debug\helper.pdb
+D:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\bin\Debug\helper.exe.config
+D:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\helper.exe
+D:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\helper.pdb
+D:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\bin\Debug\helper.exe
+D:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\bin\Debug\helper.pdb
+D:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\helper.csprojResolveAssemblyReference.cache
+D:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\MainWindow.baml
+D:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\MainWindow.g.cs
+D:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\App.g.cs
+D:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\helper_MarkupCompile.cache
+D:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\helper.g.resources
+D:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\helper.Properties.Resources.resources
+D:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\helper.csproj.GenerateResource.Cache
+G:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\bin\Debug\helper.exe.config
+G:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\helper.exe
+G:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\helper.pdb
+G:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\bin\Debug\helper.exe
+G:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\bin\Debug\helper.pdb
+G:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\helper.csprojResolveAssemblyReference.cache
+G:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\MainWindow.baml
+G:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\MainWindow.g.cs
+G:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\App.g.cs
+G:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\helper_MarkupCompile.cache
+G:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\helper.g.resources
+G:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\helper.Properties.Resources.resources
+G:\Tal\Programing\yud B\DataBase\MiniPro\help\helper\helper\obj\Debug\helper.csproj.GenerateResource.Cache
+G:\Tal\Programing\yud B\EndProject\MyEndProject\help\helper\helper\bin\Debug\helper.exe.config
+G:\Tal\Programing\yud B\EndProject\MyEndProject\help\helper\helper\obj\Debug\helper.exe
+G:\Tal\Programing\yud B\EndProject\MyEndProject\help\helper\helper\obj\Debug\helper.pdb
+G:\Tal\Programing\yud B\EndProject\MyEndProject\help\helper\helper\bin\Debug\helper.exe
+G:\Tal\Programing\yud B\EndProject\MyEndProject\help\helper\helper\bin\Debug\helper.pdb
+G:\Tal\Programing\yud B\EndProject\MyEndProject\help\helper\helper\obj\Debug\helper.csprojResolveAssemblyReference.cache
+G:\Tal\Programing\yud B\EndProject\MyEndProject\help\helper\helper\obj\Debug\MainWindow.baml
+G:\Tal\Programing\yud B\EndProject\MyEndProject\help\helper\helper\obj\Debug\MainWindow.g.cs
+G:\Tal\Programing\yud B\EndProject\MyEndProject\help\helper\helper\obj\Debug\App.g.cs
+G:\Tal\Programing\yud B\EndProject\MyEndProject\help\helper\helper\obj\Debug\helper_MarkupCompile.cache
+G:\Tal\Programing\yud B\EndProject\MyEndProject\help\helper\helper\obj\Debug\helper.g.resources
+G:\Tal\Programing\yud B\EndProject\MyEndProject\help\helper\helper\obj\Debug\helper.Properties.Resources.resources
+G:\Tal\Programing\yud B\EndProject\MyEndProject\help\helper\helper\obj\Debug\helper.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+
+Quest:
+
+In LiveNetworks
+1. Always listen if we need to upgrade the data table.
+2. If we need so be updte  with the functions we have.
+
+In connection
+
+1. In the main window, when we update the connection database in the client, so we ask an request from the server of the connection database. 
+2. Add if the username and password are vaild in the register.
+3. Add upgrade also the server database in the register when we register , and after the server update his data he update all the online clients with this data.
+
+Place to upgrade:
+
+1. In the register we can ask to email and another details.

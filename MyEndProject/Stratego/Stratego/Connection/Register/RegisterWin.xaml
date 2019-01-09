@@ -1,0 +1,35 @@
+﻿<Window x:Class="Stratego.Connection.Register.RegisterWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Stratego.Connection.Register"
+        mc:Ignorable="d"
+        Title="RegisterWin" Height="300" Width="300" WindowStartupLocation="CenterScreen">
+    <StackPanel>
+        
+        <!-- The username details -->
+        <StackPanel Orientation="Horizontal" Margin="10">
+            <TextBlock Text="Username: " Margin="10" />
+            <TextBox Name="usernameTxtBox" Margin="10" Width="130" />
+        </StackPanel>
+
+        <!-- The password details -->
+        <StackPanel Orientation="Horizontal" Margin="10">
+            <TextBlock Text="Password:  " Margin="10"/>
+            <PasswordBox Name="passwordTxtBox" Margin="10" Width="130"/>
+        </StackPanel>
+
+        <!-- The password details -->
+        <StackPanel Orientation="Horizontal" Margin="10">
+            <TextBlock Text="Confirm Password:  " Margin="10"/>
+            <PasswordBox Name="confirmPasswordTxtBox" Margin="10" Width="130"/>
+        </StackPanel>
+
+        <!-- The login button -->
+        <Button Name="register" Content="Register" Margin="10" Width="80" Click="register_Click" />
+
+        <Button Name="goBack" Content="Back" Margin="10 10 10 10" Width="80" Click="goBack_Click"/>
+
+    </StackPanel>
+</Window>

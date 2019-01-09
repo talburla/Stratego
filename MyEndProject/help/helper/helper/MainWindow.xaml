@@ -1,0 +1,19 @@
+﻿<Window x:Class="helper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        
+        <DataGrid Name="dg" />
+        <Button Content="Clear" Click="Button_Click"/>
+        <StackPanel Orientation="Horizontal">            
+            <Button Content="Remove" Click="Button_Click_1"/>
+            <TextBox Name="id"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Add" Click="Button_Click_2" />
+            <TextBox Name="UserName"/>
+            <TextBox Name="Password"/>
+        </StackPanel>
+    </StackPanel>
+</Window>
